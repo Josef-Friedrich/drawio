@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-18T12:32:52.196Z" agent="5.0 (X11; Ubuntu)" etag="T43g2uiUfgu_NM7-IEZb" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-18T12:35:28.538Z" agent="5.0 (X11; Ubuntu)" etag="Fm_Wvh_ItmQwFHGE9i6x" version="20.7.4" type="github">
   <diagram id="zfaEt4gKCj_0UKEIoMqn" name="Page-1">
-    <mxGraphModel dx="2282" dy="1315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2095" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="-120" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="otv5-7mAPzJiCk5ETvPB-1" value="hyphenate" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="otv5-7mAPzJiCk5ETvPB-4" value="ligaturing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="320" width="120" height="60" as="geometry" />
@@ -120,7 +120,7 @@
           <mxGeometry x="680" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="69okxtc1C7XsFGIcPhdR-2" value="&lt;div&gt;buildpage_filter&lt;/div&gt;&lt;div&gt;penalty&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="-240" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="69okxtc1C7XsFGIcPhdR-3" value="pre_linebreak_filter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="270" width="120" height="60" as="geometry" />
@@ -248,7 +248,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="69okxtc1C7XsFGIcPhdR-37" value="*Order of the callbacks in the reference manual*&#xa;&#xa;1.  contribute_filter&#xa;2.  buildpage_filter&#xa;3.  build_page_insert&#xa;4.  pre_linebreak_filter&#xa;5.  linebreak_filter&#xa;6.  append_to_vlist_filter&#xa;7.  post_linebreak_filter&#xa;8.  hpack_filter&#xa;9.  vpack_filter&#xa;10. hpack_quality&#xa;11. vpack_quality&#xa;12. process_rule&#xa;13. pre_output_filter&#xa;14. hyphenate&#xa;15. ligaturing&#xa;16. kerning&#xa;17. insert_local_par&#xa;18. mlist_to_hlist" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1100" width="290" height="310" as="geometry" />
+          <mxGeometry x="440" y="1290" width="290" height="310" as="geometry" />
         </mxCell>
         <mxCell id="69okxtc1C7XsFGIcPhdR-40" value="buildpage_filter&#xa;&#xa;alignment&#xa;after_output &#xa;new_graf &#xa;vmode_par hmode_par &#xa;insert penalty &#xa;before_display &#xa;after_display &#xa;end" style="align=left;fontColor=default;fontStyle=0;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="195" y="1300" width="140" height="160" as="geometry" />
@@ -266,10 +266,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="69okxtc1C7XsFGIcPhdR-44" value="hpack_filter groupcode:&#xa;&#xa;hbox&#xa;adjusted_hbox&#xa;" style="align=left;fontColor=default;fontStyle=0;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="1310" width="140" height="160" as="geometry" />
+          <mxGeometry x="-30" y="1320" width="140" height="160" as="geometry" />
         </mxCell>
         <mxCell id="69okxtc1C7XsFGIcPhdR-45" value="vpack_filter groupcode:&#xa;&#xa;hbox&#xa;adjusted_hbox&#xa;" style="align=left;fontColor=default;fontStyle=0;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="1290" width="140" height="160" as="geometry" />
+          <mxGeometry x="-260" y="1320" width="140" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
