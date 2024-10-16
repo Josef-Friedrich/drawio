@@ -262,10 +262,10 @@
         <mxCell id="NL7Qlt1FUjW-jr0vQnvG-114" value="nein" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;container=0;" vertex="1" parent="1">
           <mxGeometry x="-330" y="1066" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NL7Qlt1FUjW-jr0vQnvG-116" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="NL7Qlt1FUjW-jr0vQnvG-116" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-1660" y="1970" width="480" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="NL7Qlt1FUjW-jr0vQnvG-117" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="NL7Qlt1FUjW-jr0vQnvG-117" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-2270" y="1970" width="480" height="360" as="geometry" />
         </mxCell>
         <mxCell id="NL7Qlt1FUjW-jr0vQnvG-133" value="Berufserfahrung &amp;gt; 5 Jahre" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;strokeWidth=3;container=0;" vertex="1" parent="1">
@@ -454,16 +454,16 @@
         <mxCell id="NL7Qlt1FUjW-jr0vQnvG-215" value="3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontColor=#33d17a;" vertex="1" parent="1">
           <mxGeometry x="-1650" y="1456" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NL7Qlt1FUjW-jr0vQnvG-218" value="5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontColor=#E01B24;" vertex="1" parent="1">
+        <mxCell id="NL7Qlt1FUjW-jr0vQnvG-218" value="6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontColor=#E01B24;" vertex="1" parent="1">
           <mxGeometry x="-1562" y="2360" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NL7Qlt1FUjW-jr0vQnvG-219" value="5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontColor=#33d17a;" vertex="1" parent="1">
+        <mxCell id="NL7Qlt1FUjW-jr0vQnvG-219" value="3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontColor=#33d17a;" vertex="1" parent="1">
           <mxGeometry x="-1602" y="2360" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NL7Qlt1FUjW-jr0vQnvG-220" value="5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontColor=#E01B24;" vertex="1" parent="1">
+        <mxCell id="NL7Qlt1FUjW-jr0vQnvG-220" value="2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontColor=#E01B24;" vertex="1" parent="1">
           <mxGeometry x="-2020" y="2340" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NL7Qlt1FUjW-jr0vQnvG-221" value="5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontColor=#33d17a;" vertex="1" parent="1">
+        <mxCell id="NL7Qlt1FUjW-jr0vQnvG-221" value="4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontColor=#33d17a;" vertex="1" parent="1">
           <mxGeometry x="-2060" y="2340" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NL7Qlt1FUjW-jr0vQnvG-222" value="2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontColor=#E01B24;" vertex="1" parent="1">
