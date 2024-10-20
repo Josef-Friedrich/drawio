@@ -18,4 +18,4 @@ To create a shareable link to your diagram file, follow the steps below.[^drawio
 
 5. *Click Here!* to generate the link or the iFrame code. Copy the link and share it, or copy the iFrame code and add it to a web page.
 
-[^drawio]: [Use the online diagram viewer to share .drawio, VSDX, Gliffy, and Lucidchart diagrams](https://www.drawio.com/blog/online-diagram-viewer)
+[^drawio]: Blog article: [Use the online diagram viewer to share .drawio, VSDX, Gliffy, and Lucidchart diagrams](https://www.drawio.com/blog/online-diagram-viewer)
