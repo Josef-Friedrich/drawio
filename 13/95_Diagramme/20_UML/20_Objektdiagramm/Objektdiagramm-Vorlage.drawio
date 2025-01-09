@@ -1,0 +1,187 @@
+<mxfile host="65bd71144e">
+    <diagram id="rLTFirSggqk5s6QhS6uG" name="Page-1">
+        <mxGraphModel dx="2120" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="91" value="leaf: LeafNode" style="html=1;rounded=1;fontFamily=Alegreya Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+                    <mxGeometry x="545" y="442" width="80" height="42" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="node1: InnerNode" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Alegreya Sans;fontSize=11;rounded=1;gradientColor=none;swimlaneFillColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;connectable=1;resizable=1;" vertex="1" parent="1">
+                    <mxGeometry x="85" y="440" width="90" height="62" as="geometry">
+                        <mxRectangle x="60" y="120" width="80" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="93" value="next = node2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" vertex="1" parent="92">
+                    <mxGeometry y="26" width="90" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="94" value="talk = talk1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" vertex="1" parent="92">
+                    <mxGeometry y="44" width="90" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="95" value="" style="endArrow=open;endFill=1;endSize=7;html=1;fontFamily=Alegreya Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="93" target="97">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="235" y="609.9999999999998" as="sourcePoint"/>
+                        <mxPoint x="245" y="451" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="96" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Alegreya&quot; face=&quot;Alegreya&quot;&gt;next&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="95">
+                    <mxGeometry x="0.2677" y="1" relative="1" as="geometry">
+                        <mxPoint x="1" y="-12" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="97" value="node2: InnerNode" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Alegreya Sans;fontSize=11;rounded=1;gradientColor=none;swimlaneFillColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;connectable=1;resizable=1;" vertex="1" parent="1">
+                    <mxGeometry x="235" y="440" width="90" height="62" as="geometry">
+                        <mxRectangle x="170" y="120" width="80" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="98" value="next = node3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" vertex="1" parent="97">
+                    <mxGeometry y="26" width="90" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="99" value="talk = talk2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" vertex="1" parent="97">
+                    <mxGeometry y="44" width="90" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="100" value="node3: InnerNode" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Alegreya Sans;fontSize=11;rounded=1;gradientColor=none;swimlaneFillColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;connectable=1;resizable=1;" vertex="1" parent="1">
+                    <mxGeometry x="389" y="440" width="100" height="62" as="geometry">
+                        <mxRectangle x="280" y="120" width="80" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="101" value="next = leaf" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" vertex="1" parent="100">
+                    <mxGeometry y="26" width="100" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="102" value="talk = talk3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" vertex="1" parent="100">
+                    <mxGeometry y="44" width="100" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="103" value="" style="endArrow=open;endFill=1;endSize=7;html=1;fontFamily=Alegreya Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="98" target="100">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="175" y="485" as="sourcePoint"/>
+                        <mxPoint x="205" y="461" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="104" value="next" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Alegreya;" vertex="1" connectable="0" parent="103">
+                    <mxGeometry x="0.263" y="1" relative="1" as="geometry">
+                        <mxPoint y="-12" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="105" value="next" style="endArrow=open;endFill=1;endSize=7;html=1;fontFamily=Alegreya Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.381;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="101" target="91">
+                    <mxGeometry x="0.442" y="13" width="160" relative="1" as="geometry">
+                        <mxPoint x="295" y="485" as="sourcePoint"/>
+                        <mxPoint x="424.3700000000001" y="452.43999999999994" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="106" value="talk" style="endArrow=open;endFill=1;endSize=7;html=1;fontFamily=Alegreya Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;" edge="1" parent="1" source="94" target="112">
+                    <mxGeometry x="0.4737" y="15" width="160" relative="1" as="geometry">
+                        <mxPoint x="95" y="510" as="sourcePoint"/>
+                        <mxPoint x="130" y="530" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="107" value="talk" style="endArrow=open;endFill=1;endSize=7;html=1;fontFamily=Alegreya Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;exitX=0.504;exitY=1.019;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="99" target="115">
+                    <mxGeometry x="0.4648" y="15" width="160" relative="1" as="geometry">
+                        <mxPoint x="140" y="512" as="sourcePoint"/>
+                        <mxPoint x="240" y="530" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="108" value="talk" style="endArrow=open;endFill=1;endSize=7;html=1;fontFamily=Alegreya Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;" edge="1" parent="1" source="100" target="118">
+                    <mxGeometry x="0.4737" y="16" width="160" relative="1" as="geometry">
+                        <mxPoint x="150" y="522" as="sourcePoint"/>
+                        <mxPoint x="355" y="530" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="109" value="talkList1: TalkList" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Alegreya Sans;fontSize=11;rounded=1;gradientColor=none;swimlaneFillColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;connectable=1;resizable=1;" vertex="1" parent="1">
+                    <mxGeometry x="85" y="370" width="90" height="44" as="geometry">
+                        <mxRectangle x="60" y="120" width="80" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="110" value="head = node1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" vertex="1" parent="109">
+                    <mxGeometry y="26" width="90" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="111" value="" style="endArrow=open;endFill=1;endSize=7;html=1;fontFamily=Alegreya Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;" edge="1" parent="1" source="109" target="92">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="140" y="512" as="sourcePoint"/>
+                        <mxPoint x="140" y="540" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="112" value="talk1: Talk" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Alegreya Sans;fontSize=11;rounded=1;gradientColor=none;swimlaneFillColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;connectable=1;resizable=1;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="540" width="140" height="62" as="geometry">
+                        <mxRectangle x="60" y="120" width="80" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="113" value="title =&amp;nbsp; &quot;Bits in Microgravity&quot;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22node1%3A%20InnerNode%22%20style%3D%22swimlane%3BfontStyle%3D1%3Balign%3Dcenter%3BverticalAlign%3Dtop%3BchildLayout%3DstackLayout%3Bhorizontal%3D1%3BstartSize%3D26%3BhorizontalStack%3D0%3BresizeParent%3D1%3BresizeParentMax%3D0%3BresizeLast%3D0%3Bcollapsible%3D1%3BmarginBottom%3D0%3BfontFamily%3DAlegreya%20Sans%3BfontSize%3D11%3Brounded%3D1%3BgradientColor%3Dnone%3BswimlaneFillColor%3Dnone%3BfontSource%3Dhttps%253A%252F%252Ffonts.googleapis.com%252Fcss%253Ffamily%253DAlegreya%252BSans%3Bconnectable%3D1%3Bresizable%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2260%22%20y%3D%22120%22%20width%3D%2290%22%20height%3D%2262%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%2260%22%20y%3D%22120%22%20width%3D%2280%22%20height%3D%2230%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22next%22%20style%3D%22text%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dleft%3BverticalAlign%3Dmiddle%3BspacingLeft%3D3%3BspacingRight%3D4%3Boverflow%3Dhidden%3Brotatable%3D0%3Bpoints%3D%5B%5B0%2C0.5%5D%2C%5B1%2C0.5%5D%5D%3BportConstraint%3Deastwest%3BfontFamily%3DAlegreya%3BfontSize%3D11%3BfontStyle%3D0%3Bhtml%3D1%3BimageWidth%3D24%3BimageHeight%3D24%3Bcomic%3D0%3BimageAspect%3D0%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20y%3D%2226%22%20width%3D%2290%22%20height%3D%2218%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22data%22%20style%3D%22text%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dleft%3BverticalAlign%3Dmiddle%3BspacingLeft%3D3%3BspacingRight%3D4%3Boverflow%3Dhidden%3Brotatable%3D0%3Bpoints%3D%5B%5B0%2C0.5%5D%2C%5B1%2C0.5%5D%5D%3BportConstraint%3Deastwest%3BfontFamily%3DAlegreya%3BfontSize%3D11%3BfontStyle%3D0%3Bhtml%3D1%3BimageWidth%3D24%3BimageHeight%3D24%3Bcomic%3D0%3BimageAspect%3D0%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20y%3D%2244%22%20width%3D%2290%22%20height%3D%2218%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" vertex="1" parent="112">
+                    <mxGeometry y="26" width="140" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="114" value="timeSlot = 7" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" vertex="1" parent="112">
+                    <mxGeometry y="44" width="140" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="115" value="talk2: Talk" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Alegreya Sans;fontSize=11;rounded=1;gradientColor=none;swimlaneFillColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;connectable=1;resizable=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="540" width="140" height="62" as="geometry">
+                        <mxRectangle x="60" y="120" width="80" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="116" value="title =&amp;nbsp; &quot;Demystifying eSIM&quot;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22node1%3A%20InnerNode%22%20style%3D%22swimlane%3BfontStyle%3D1%3Balign%3Dcenter%3BverticalAlign%3Dtop%3BchildLayout%3DstackLayout%3Bhorizontal%3D1%3BstartSize%3D26%3BhorizontalStack%3D0%3BresizeParent%3D1%3BresizeParentMax%3D0%3BresizeLast%3D0%3Bcollapsible%3D1%3BmarginBottom%3D0%3BfontFamily%3DAlegreya%20Sans%3BfontSize%3D11%3Brounded%3D1%3BgradientColor%3Dnone%3BswimlaneFillColor%3Dnone%3BfontSource%3Dhttps%253A%252F%252Ffonts.googleapis.com%252Fcss%253Ffamily%253DAlegreya%252BSans%3Bconnectable%3D1%3Bresizable%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2260%22%20y%3D%22120%22%20width%3D%2290%22%20height%3D%2262%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%2260%22%20y%3D%22120%22%20width%3D%2280%22%20height%3D%2230%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22next%22%20style%3D%22text%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dleft%3BverticalAlign%3Dmiddle%3BspacingLeft%3D3%3BspacingRight%3D4%3Boverflow%3Dhidden%3Brotatable%3D0%3Bpoints%3D%5B%5B0%2C0.5%5D%2C%5B1%2C0.5%5D%5D%3BportConstraint%3Deastwest%3BfontFamily%3DAlegreya%3BfontSize%3D11%3BfontStyle%3D0%3Bhtml%3D1%3BimageWidth%3D24%3BimageHeight%3D24%3Bcomic%3D0%3BimageAspect%3D0%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20y%3D%2226%22%20width%3D%2290%22%20height%3D%2218%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22data%22%20style%3D%22text%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dleft%3BverticalAlign%3Dmiddle%3BspacingLeft%3D3%3BspacingRight%3D4%3Boverflow%3Dhidden%3Brotatable%3D0%3Bpoints%3D%5B%5B0%2C0.5%5D%2C%5B1%2C0.5%5D%5D%3BportConstraint%3Deastwest%3BfontFamily%3DAlegreya%3BfontSize%3D11%3BfontStyle%3D0%3Bhtml%3D1%3BimageWidth%3D24%3BimageHeight%3D24%3Bcomic%3D0%3BimageAspect%3D0%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20y%3D%2244%22%20width%3D%2290%22%20height%3D%2218%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" vertex="1" parent="115">
+                    <mxGeometry y="26" width="140" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="117" value="timeSlot = 7" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" vertex="1" parent="115">
+                    <mxGeometry y="44" width="140" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="118" value="talk3: Talk" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Alegreya Sans;fontSize=11;rounded=1;gradientColor=none;swimlaneFillColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;connectable=1;resizable=1;" vertex="1" parent="1">
+                    <mxGeometry x="369" y="540" width="140" height="62" as="geometry">
+                        <mxRectangle x="60" y="120" width="80" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="119" value="title =&amp;nbsp; &quot;Fake 10Gb&quot;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22node1%3A%20InnerNode%22%20style%3D%22swimlane%3BfontStyle%3D1%3Balign%3Dcenter%3BverticalAlign%3Dtop%3BchildLayout%3DstackLayout%3Bhorizontal%3D1%3BstartSize%3D26%3BhorizontalStack%3D0%3BresizeParent%3D1%3BresizeParentMax%3D0%3BresizeLast%3D0%3Bcollapsible%3D1%3BmarginBottom%3D0%3BfontFamily%3DAlegreya%20Sans%3BfontSize%3D11%3Brounded%3D1%3BgradientColor%3Dnone%3BswimlaneFillColor%3Dnone%3BfontSource%3Dhttps%253A%252F%252Ffonts.googleapis.com%252Fcss%253Ffamily%253DAlegreya%252BSans%3Bconnectable%3D1%3Bresizable%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2260%22%20y%3D%22120%22%20width%3D%2290%22%20height%3D%2262%22%20as%3D%22geometry%22%3E%3CmxRectangle%20x%3D%2260%22%20y%3D%22120%22%20width%3D%2280%22%20height%3D%2230%22%20as%3D%22alternateBounds%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22next%22%20style%3D%22text%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dleft%3BverticalAlign%3Dmiddle%3BspacingLeft%3D3%3BspacingRight%3D4%3Boverflow%3Dhidden%3Brotatable%3D0%3Bpoints%3D%5B%5B0%2C0.5%5D%2C%5B1%2C0.5%5D%5D%3BportConstraint%3Deastwest%3BfontFamily%3DAlegreya%3BfontSize%3D11%3BfontStyle%3D0%3Bhtml%3D1%3BimageWidth%3D24%3BimageHeight%3D24%3Bcomic%3D0%3BimageAspect%3D0%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20y%3D%2226%22%20width%3D%2290%22%20height%3D%2218%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22data%22%20style%3D%22text%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dleft%3BverticalAlign%3Dmiddle%3BspacingLeft%3D3%3BspacingRight%3D4%3Boverflow%3Dhidden%3Brotatable%3D0%3Bpoints%3D%5B%5B0%2C0.5%5D%2C%5B1%2C0.5%5D%5D%3BportConstraint%3Deastwest%3BfontFamily%3DAlegreya%3BfontSize%3D11%3BfontStyle%3D0%3Bhtml%3D1%3BimageWidth%3D24%3BimageHeight%3D24%3Bcomic%3D0%3BimageAspect%3D0%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20y%3D%2244%22%20width%3D%2290%22%20height%3D%2218%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" vertex="1" parent="118">
+                    <mxGeometry y="26" width="140" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="120" value="timeSlot = 7" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" vertex="1" parent="118">
+                    <mxGeometry y="44" width="140" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="121" value="&lt;font face=&quot;Alegreya Sans&quot;&gt;Objektdiagramm&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-790" y="30" width="220" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="122" value="objekt2: Class" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Alegreya Sans;fontSize=11;rounded=1;gradientColor=none;swimlaneFillColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;connectable=1;resizable=1;" vertex="1" parent="1">
+                    <mxGeometry x="-760" y="200" width="90" height="62" as="geometry">
+                        <mxRectangle x="60" y="120" width="80" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="123" value="attribute1 = &quot;Text&quot;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" vertex="1" parent="122">
+                    <mxGeometry y="26" width="90" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="124" value="attribute2 = 123" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" vertex="1" parent="122">
+                    <mxGeometry y="44" width="90" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="125" value="object2: Class" style="html=1;fontFamily=Alegreya Sans;fontStyle=1;fontSize=11;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="-600" y="200" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="126" value="mit Attributen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Alegreya;" vertex="1" parent="1">
+                    <mxGeometry x="-745" y="140" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="127" value="ohne Attribute" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Alegreya;" vertex="1" parent="1">
+                    <mxGeometry x="-575" y="140" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="128" value="object1:  Class1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Alegreya Sans;fontSize=11;rounded=1;gradientColor=none;swimlaneFillColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;connectable=1;resizable=1;" vertex="1" parent="1">
+                    <mxGeometry x="-458" y="200" width="90" height="44" as="geometry">
+                        <mxRectangle x="60" y="120" width="80" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="130" value="attribute = object2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" vertex="1" parent="128">
+                    <mxGeometry y="26" width="90" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="131" value="attribute" style="endArrow=open;endFill=1;endSize=7;html=1;fontFamily=Alegreya Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;" edge="1" parent="1" source="130" target="135">
+                    <mxGeometry x="0.2857" y="30" width="160" relative="1" as="geometry">
+                        <mxPoint x="-448" y="270" as="sourcePoint"/>
+                        <mxPoint x="-413" y="300" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="135" value="object2: Class" style="html=1;fontFamily=Alegreya Sans;fontStyle=1;fontSize=11;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="-468" y="290" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="137" value="Beziehung zwischen Objekten" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Alegreya;" vertex="1" parent="1">
+                    <mxGeometry x="-443" y="140" width="60" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
