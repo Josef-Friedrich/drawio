@@ -1,0 +1,80 @@
+<mxfile host="65bd71144e">
+    <diagram name="Page-1" id="KB8Ok2DvNuGD_wmBjVxV">
+        <mxGraphModel dx="869" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="sftyYVtjVENT-q0x5Cpo-1" value="Abteilung 3&lt;br&gt;(Volleyball)" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="90" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="sftyYVtjVENT-q0x5Cpo-3" value="SV&amp;nbsp;&lt;br&gt;Musterstadt" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="140" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="sftyYVtjVENT-q0x5Cpo-13" value="Abteilung 2&lt;br&gt;(Handball)" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="240" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="sftyYVtjVENT-q0x5Cpo-14" value="Abteilung 1&lt;br&gt;(Fußball)" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="90" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="sftyYVtjVENT-q0x5Cpo-15" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sftyYVtjVENT-q0x5Cpo-3" target="sftyYVtjVENT-q0x5Cpo-14" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="492.14538023040336" y="300.60069120001936" as="sourcePoint"/>
+                        <mxPoint x="460" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="sftyYVtjVENT-q0x5Cpo-13" target="sftyYVtjVENT-q0x5Cpo-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="660" y="560" as="sourcePoint"/>
+                        <mxPoint x="460" y="560" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="200" y="350"/>
+                            <mxPoint x="640" y="350"/>
+                            <mxPoint x="640" y="130"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="sftyYVtjVENT-q0x5Cpo-3" target="sftyYVtjVENT-q0x5Cpo-13">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="670" y="570" as="sourcePoint"/>
+                        <mxPoint x="470" y="570" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="sftyYVtjVENT-q0x5Cpo-14" target="sftyYVtjVENT-q0x5Cpo-13">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="680" y="580" as="sourcePoint"/>
+                        <mxPoint x="480" y="580" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="sftyYVtjVENT-q0x5Cpo-3" target="sftyYVtjVENT-q0x5Cpo-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="670" y="570" as="sourcePoint"/>
+                        <mxPoint x="470" y="570" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="10" target="sftyYVtjVENT-q0x5Cpo-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Abteilung 4&lt;br&gt;(Bogenschießen)" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSize=16;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="240" width="140" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="10" target="sftyYVtjVENT-q0x5Cpo-3">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="129.86393923832156" y="169.45575695328625" as="sourcePoint"/>
+                        <mxPoint x="170.13606076167844" y="330.54424304671375" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="sftyYVtjVENT-q0x5Cpo-14" target="10">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="760" y="300" as="sourcePoint"/>
+                        <mxPoint x="180.13606076167844" y="340.54424304671375" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="200" y="60"/>
+                            <mxPoint x="660" y="60"/>
+                            <mxPoint x="660" y="280"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -1,0 +1,404 @@
+<mxfile host="65bd71144e">
+    <diagram id="t8QoFsj8MZgXzhcuyan1" name="Page-1">
+        <mxGraphModel dx="1640" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-42" value="Hauptbahnhof" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="760" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-43" value="Rathenauplatz" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="640" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-44" value="Flughafen" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="475" y="440" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-45" value="&lt;div&gt;Friedrich-Ebert-&lt;/div&gt;&lt;div&gt;Platz&lt;br&gt;&lt;/div&gt;" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="530" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-46" value="Plärrer" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="730" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-47" value="Nordwestring" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="65" y="490" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-48" value="Westfriedhof" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="570" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-49" value="Am Wegfeld" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="430" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-50" value="Hallertor" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="265" y="630" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-51" value="" style="endArrow=none;html=1;" parent="1" source="2z02F9WK5_zlQGyMDfMo-43" target="2z02F9WK5_zlQGyMDfMo-42" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="490" y="720" as="sourcePoint"/>
+                        <mxPoint x="360" y="727.6470588235293" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-52" value="" style="endArrow=none;html=1;" parent="1" source="2z02F9WK5_zlQGyMDfMo-44" target="2z02F9WK5_zlQGyMDfMo-43" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="510" y="540" as="sourcePoint"/>
+                        <mxPoint x="380" y="547.6470588235293" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-53" value="" style="endArrow=none;html=1;" parent="1" source="2z02F9WK5_zlQGyMDfMo-43" target="2z02F9WK5_zlQGyMDfMo-45" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="400" y="600" as="sourcePoint"/>
+                        <mxPoint x="270" y="607.6470588235293" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-54" value="" style="endArrow=none;html=1;" parent="1" source="2z02F9WK5_zlQGyMDfMo-45" target="2z02F9WK5_zlQGyMDfMo-47" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="190" y="540" as="sourcePoint"/>
+                        <mxPoint x="60" y="547.6470588235293" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-55" value="" style="endArrow=none;html=1;" parent="1" source="2z02F9WK5_zlQGyMDfMo-49" target="2z02F9WK5_zlQGyMDfMo-45" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="340" y="510" as="sourcePoint"/>
+                        <mxPoint x="210" y="517.6470588235293" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-56" value="" style="endArrow=none;html=1;" parent="1" source="2z02F9WK5_zlQGyMDfMo-45" target="2z02F9WK5_zlQGyMDfMo-50" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="190" y="600" as="sourcePoint"/>
+                        <mxPoint x="60" y="607.6470588235293" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-57" value="" style="endArrow=none;html=1;" parent="1" source="2z02F9WK5_zlQGyMDfMo-50" target="2z02F9WK5_zlQGyMDfMo-46" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="260" y="690" as="sourcePoint"/>
+                        <mxPoint x="130" y="697.6470588235293" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-58" value="" style="endArrow=none;html=1;" parent="1" source="2z02F9WK5_zlQGyMDfMo-42" target="2z02F9WK5_zlQGyMDfMo-46" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="390" y="720" as="sourcePoint"/>
+                        <mxPoint x="260" y="727.6470588235293" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-59" value="" style="endArrow=none;html=1;" parent="1" source="2z02F9WK5_zlQGyMDfMo-50" target="2z02F9WK5_zlQGyMDfMo-48" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="170" y="620" as="sourcePoint"/>
+                        <mxPoint x="40" y="627.6470588235293" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-60" value="Aufseßplatz" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="860" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-61" value="Frankenstraße" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="475" y="950" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-64" value="Landwasser Süd" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="600" y="1070" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-66" value="" style="endArrow=none;html=1;" parent="1" source="2z02F9WK5_zlQGyMDfMo-42" target="2z02F9WK5_zlQGyMDfMo-60" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="470" y="820" as="sourcePoint"/>
+                        <mxPoint x="340" y="801" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-67" value="" style="endArrow=none;html=1;" parent="1" source="2z02F9WK5_zlQGyMDfMo-60" target="2z02F9WK5_zlQGyMDfMo-61" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="470" y="778" as="sourcePoint"/>
+                        <mxPoint x="340" y="759" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-68" value="" style="endArrow=none;html=1;" parent="1" source="2z02F9WK5_zlQGyMDfMo-61" target="2z02F9WK5_zlQGyMDfMo-64" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="480" y="788" as="sourcePoint"/>
+                        <mxPoint x="350" y="769" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-69" value="Worzeldorfer Straße" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="1060" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2z02F9WK5_zlQGyMDfMo-71" value="" style="endArrow=none;html=1;" parent="1" source="2z02F9WK5_zlQGyMDfMo-61" target="2z02F9WK5_zlQGyMDfMo-69" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="350" y="1010" as="sourcePoint"/>
+                        <mxPoint x="353" y="1070" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="&lt;div&gt;Stresmann&lt;/div&gt;&lt;div&gt;platz&lt;br&gt;&lt;/div&gt;" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="850" y="610" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Marientor" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="740" y="690" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="endArrow=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="8">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="785" y="1105" as="sourcePoint"/>
+                        <mxPoint x="835" y="1055" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="&lt;div&gt;Rathenau&lt;/div&gt;&lt;div&gt;platz&lt;br&gt;&lt;/div&gt;" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="610" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;div&gt;Deichsler&lt;/div&gt;&lt;div&gt;str-&lt;br&gt;&lt;/div&gt;" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="995" y="610" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;div&gt;Wöhrder&lt;/div&gt;&lt;div&gt;Wiese&lt;br&gt;&lt;/div&gt;" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="670" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="2" target="6">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="807.5" y="885" as="sourcePoint"/>
+                        <mxPoint x="702.5" y="795" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="7" target="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="827.5" y="905" as="sourcePoint"/>
+                        <mxPoint x="722.5" y="815" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="4" target="2z02F9WK5_zlQGyMDfMo-42">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="837.5" y="915" as="sourcePoint"/>
+                        <mxPoint x="717.7272727272725" y="820" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="2z02F9WK5_zlQGyMDfMo-42" target="8">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="705" y="820" as="sourcePoint"/>
+                        <mxPoint x="742.5" y="835" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="8" target="6">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="857.5" y="935" as="sourcePoint"/>
+                        <mxPoint x="752.5" y="845" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="Rennweg" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="490" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Marientunnel" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="860" y="820" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6" target="14">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="704.2" y="610" as="sourcePoint"/>
+                        <mxPoint x="704.2" y="550" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="15" target="2z02F9WK5_zlQGyMDfMo-42">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="800" y="850" as="sourcePoint"/>
+                        <mxPoint x="735" y="840" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="Tauroggenstr." style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="1130" y="610" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Tafelhalle" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="1275" y="610" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="19" target="18">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1107.5" y="905" as="sourcePoint"/>
+                        <mxPoint x="1002.5" y="815" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="18" target="7">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1070" y="740" as="sourcePoint"/>
+                        <mxPoint x="1005" y="740" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="Ostbahnhof" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="1410" y="610" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="22" target="19">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1285" y="640" as="sourcePoint"/>
+                        <mxPoint x="1220" y="640" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" value="Dürrenhof" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="990" y="820" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Arminiusstr." style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="1220" y="820" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="22" target="2z02F9WK5_zlQGyMDfMo-42">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="860" y="640" as="sourcePoint"/>
+                        <mxPoint x="735" y="830" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27" value="Tullnaupark" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="1110" y="820" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="24" target="15">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="830" y="930" as="sourcePoint"/>
+                        <mxPoint x="705" y="930" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="27" target="24">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1050" y="940" as="sourcePoint"/>
+                        <mxPoint x="925" y="940" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="30" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="25" target="27">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1080" y="930" as="sourcePoint"/>
+                        <mxPoint x="955" y="930" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="31" value="Schoppershof" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="390" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Nordostbahnhof" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="280" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Herrnhütte" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="180" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Ziegelstein" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="80" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="Flughafen" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="590" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="14" target="31">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="800" y="420" as="sourcePoint"/>
+                        <mxPoint x="800" y="340" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="37" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="31" target="32">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="810" y="380" as="sourcePoint"/>
+                        <mxPoint x="810" y="300" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="38" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="32" target="33">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="790" y="250" as="sourcePoint"/>
+                        <mxPoint x="790" y="170" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="39" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="33" target="34">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="800" y="160" as="sourcePoint"/>
+                        <mxPoint x="800" y="80" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="40" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="34" target="35">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="800" y="90" as="sourcePoint"/>
+                        <mxPoint x="800" y="10" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="41" value="Thumenberger Weg" style="rounded=1;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="1540" y="550" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="41" target="22">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1330" y="490" as="sourcePoint"/>
+                        <mxPoint x="1265" y="490" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="45" value="Dürrenhof" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;" vertex="1" parent="1">
+                    <mxGeometry x="1150" y="950" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="Mögeldorf" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;" vertex="1" parent="1">
+                    <mxGeometry x="1290" y="990" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="Laufamholz" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;" vertex="1" parent="1">
+                    <mxGeometry x="1420" y="990" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="15" target="45">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1070" y="965" as="sourcePoint"/>
+                        <mxPoint x="1130" y="910" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="50" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="46" target="45">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1190" y="1070" as="sourcePoint"/>
+                        <mxPoint x="1240" y="1020" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="47" target="46">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1330" y="1100" as="sourcePoint"/>
+                        <mxPoint x="1380" y="1050" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="52" value="Fischbach" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;" vertex="1" parent="1">
+                    <mxGeometry x="1290" y="910" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="45" target="52">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1160" y="940" as="sourcePoint"/>
+                        <mxPoint x="1210" y="890" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="54" value="Erlenstegen" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;" vertex="1" parent="1">
+                    <mxGeometry x="660" y="960" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="54" target="2z02F9WK5_zlQGyMDfMo-42">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="920" y="1140" as="sourcePoint"/>
+                        <mxPoint x="882.5" y="1030" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="56" value="Schwiegerstraße" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;" vertex="1" parent="1">
+                    <mxGeometry x="850" y="960" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="2z02F9WK5_zlQGyMDfMo-42" target="56">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="913.4375" y="1030" as="sourcePoint"/>
+                        <mxPoint x="1010" y="1040" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="58" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="56" target="15">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1050" y="1070" as="sourcePoint"/>
+                        <mxPoint x="1031.3461538461538" y="980" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="59" value="Wodanstraße" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;" vertex="1" parent="1">
+                    <mxGeometry x="930" y="1060" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="Dudzenteich" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;" vertex="1" parent="1">
+                    <mxGeometry x="1100" y="1020" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="56" target="59">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1200" y="1090" as="sourcePoint"/>
+                        <mxPoint x="1250" y="1040" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="62" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="59" target="60">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1190" y="1090" as="sourcePoint"/>
+                        <mxPoint x="1240" y="1040" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="63" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="56" target="60">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1200" y="1100" as="sourcePoint"/>
+                        <mxPoint x="1250" y="1050" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="64" value="Tristanstraße" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;" vertex="1" parent="1">
+                    <mxGeometry x="1110" y="1110" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="64" target="59">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1070" y="1210" as="sourcePoint"/>
+                        <mxPoint x="1120" y="1160" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
