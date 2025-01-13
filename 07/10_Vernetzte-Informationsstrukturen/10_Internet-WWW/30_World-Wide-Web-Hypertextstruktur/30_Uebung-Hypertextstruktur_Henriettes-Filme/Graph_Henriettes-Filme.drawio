@@ -1,0 +1,67 @@
+<mxfile host="65bd71144e">
+    <diagram name="Seite-1" id="VqhjxdNAldA514-oP1dY">
+        <mxGraphModel dx="1640" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="zVyb7skGMIaMNCrA2Tj4-1" value="Krimi" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;" parent="1" vertex="1">
+                    <mxGeometry x="575" y="370" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="zVyb7skGMIaMNCrA2Tj4-2" value="Romantik" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;" parent="1" vertex="1">
+                    <mxGeometry x="275" y="370" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="zVyb7skGMIaMNCrA2Tj4-3" value="&lt;div&gt;Henriettes Filme&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;" parent="1" vertex="1">
+                    <mxGeometry x="379" y="485" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="zVyb7skGMIaMNCrA2Tj4-4" value="Drama" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="630" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="zVyb7skGMIaMNCrA2Tj4-5" value="Comedy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya;" parent="1" vertex="1">
+                    <mxGeometry x="565" y="630" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="zVyb7skGMIaMNCrA2Tj4-7" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;startFill=0;" parent="1" source="zVyb7skGMIaMNCrA2Tj4-3" target="zVyb7skGMIaMNCrA2Tj4-2" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="340" y="440" as="sourcePoint"/>
+                        <mxPoint x="390" y="390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zVyb7skGMIaMNCrA2Tj4-8" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;endFill=0;" parent="1" source="zVyb7skGMIaMNCrA2Tj4-3" target="zVyb7skGMIaMNCrA2Tj4-1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="500" y="440" as="sourcePoint"/>
+                        <mxPoint x="550" y="390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zVyb7skGMIaMNCrA2Tj4-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;endFill=1;" parent="1" source="zVyb7skGMIaMNCrA2Tj4-4" target="zVyb7skGMIaMNCrA2Tj4-3" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="360" y="540" as="sourcePoint"/>
+                        <mxPoint x="410" y="490" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zVyb7skGMIaMNCrA2Tj4-10" value="" style="endArrow=classic;html=1;rounded=0;endFill=1;startArrow=classic;startFill=1;" parent="1" source="zVyb7skGMIaMNCrA2Tj4-5" target="zVyb7skGMIaMNCrA2Tj4-4" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="490" y="480" as="sourcePoint"/>
+                        <mxPoint x="540" y="430" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zVyb7skGMIaMNCrA2Tj4-13" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" parent="1" source="zVyb7skGMIaMNCrA2Tj4-5" target="zVyb7skGMIaMNCrA2Tj4-3" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="490" y="480" as="sourcePoint"/>
+                        <mxPoint x="540" y="430" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zVyb7skGMIaMNCrA2Tj4-14" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;endFill=0;" parent="1" source="zVyb7skGMIaMNCrA2Tj4-2" target="zVyb7skGMIaMNCrA2Tj4-4" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="490" y="480" as="sourcePoint"/>
+                        <mxPoint x="540" y="430" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zVyb7skGMIaMNCrA2Tj4-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="zVyb7skGMIaMNCrA2Tj4-1" target="zVyb7skGMIaMNCrA2Tj4-5" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="490" y="480" as="sourcePoint"/>
+                        <mxPoint x="540" y="430" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
