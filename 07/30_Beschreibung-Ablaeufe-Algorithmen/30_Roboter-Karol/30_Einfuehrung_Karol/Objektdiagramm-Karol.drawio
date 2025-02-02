@@ -1,0 +1,24 @@
+<mxfile host="65bd71144e">
+    <diagram id="rLTFirSggqk5s6QhS6uG" name="Page-1">
+        <mxGraphModel dx="1299" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="122" value="Karol: Roboter" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Alegreya Sans;fontSize=11;rounded=1;gradientColor=none;swimlaneFillColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;connectable=1;resizable=1;" parent="1" vertex="1">
+                    <mxGeometry x="-760" y="200" width="90" height="80" as="geometry">
+                        <mxRectangle x="60" y="120" width="80" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="123" value="PositionX = 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" parent="122" vertex="1">
+                    <mxGeometry y="26" width="90" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="138" value="PositionY = 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" vertex="1" parent="122">
+                    <mxGeometry y="44" width="90" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="124" value="Blickrichtung = S" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" parent="122" vertex="1">
+                    <mxGeometry y="62" width="90" height="18" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
