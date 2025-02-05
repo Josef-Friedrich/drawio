@@ -1,0 +1,55 @@
+<mxfile host="65bd71144e">
+    <diagram id="Q8ZCVBfkGdzVq4fk389N" name="Page-1">
+        <mxGraphModel dx="1331" dy="1337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="70" value="Welt" style="html=1;fontFamily=Alegreya Sans;fontStyle=1;fontSize=11;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="230" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="Roboter" style="html=1;fontFamily=Alegreya Sans;fontStyle=1;fontSize=11;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="142" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="Ziegel" style="html=1;fontFamily=Alegreya Sans;fontStyle=1;fontSize=11;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="200" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="Marke" style="html=1;fontFamily=Alegreya Sans;fontStyle=1;fontSize=11;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="260" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="Quader" style="html=1;fontFamily=Alegreya Sans;fontStyle=1;fontSize=11;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="320" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="70" target="72" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="190" y="510" as="sourcePoint"/>
+                        <mxPoint x="240" y="460" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="77" value="" style="endArrow=oval;html=1;startArrow=none;startFill=0;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="70" target="73" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="210" y="410" as="sourcePoint"/>
+                        <mxPoint x="260" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="78" value="" style="endArrow=oval;html=1;startArrow=none;startFill=0;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="70" target="74" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="310" y="249.21052631578937" as="sourcePoint"/>
+                        <mxPoint x="390" y="240.7894736842104" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="79" value="" style="endArrow=oval;html=1;startArrow=none;startFill=0;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="70" target="75" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="320" y="259.21052631578937" as="sourcePoint"/>
+                        <mxPoint x="400" y="250.7894736842104" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="80" value="◂ ist in" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Alegreya;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="310" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="enthält ▸&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Alegreya;" vertex="1" parent="1">
+                    <mxGeometry x="315" y="162" width="70" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
