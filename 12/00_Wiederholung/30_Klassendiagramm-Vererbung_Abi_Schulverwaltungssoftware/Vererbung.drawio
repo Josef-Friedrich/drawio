@@ -1,0 +1,66 @@
+<mxfile host="65bd71144e">
+    <diagram id="Q8ZCVBfkGdzVq4fk389N" name="Page-1">
+        <mxGraphModel dx="498" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="83" value="Room" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Alegreya Sans;fontSize=11;rounded=0;gradientColor=none;swimlaneFillColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="660" width="110" height="62" as="geometry">
+                        <mxRectangle x="480" y="560" width="80" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="84" value="roomN&lt;span style=&quot;background-color: transparent;&quot;&gt;umber&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" parent="83" vertex="1">
+                    <mxGeometry y="26" width="110" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" value="numberOfSeats" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" parent="83" vertex="1">
+                    <mxGeometry y="44" width="110" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="102" value="ClassRoom" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Alegreya Sans;fontSize=11;rounded=0;gradientColor=none;swimlaneFillColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="820" width="110" height="44" as="geometry">
+                        <mxRectangle x="480" y="560" width="80" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="103" value="schoolClass" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" vertex="1" parent="102">
+                    <mxGeometry y="26" width="110" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="105" value="Office" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Alegreya Sans;fontSize=11;rounded=0;gradientColor=none;swimlaneFillColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="820" width="110" height="44" as="geometry">
+                        <mxRectangle x="480" y="560" width="80" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="106" value="roomN&lt;span style=&quot;background-color: transparent;&quot;&gt;umber&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" vertex="1" parent="105">
+                    <mxGeometry y="26" width="110" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="108" value="SubjectRoom" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Alegreya Sans;fontSize=11;rounded=0;gradientColor=none;swimlaneFillColor=none;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAlegreya%2BSans;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="820" width="110" height="44" as="geometry">
+                        <mxRectangle x="480" y="560" width="80" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="109" value="subject" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;fontStyle=0;html=1;imageWidth=24;imageHeight=24;comic=0;imageAspect=0;" vertex="1" parent="108">
+                    <mxGeometry y="26" width="110" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="111" value="" style="endArrow=block;endSize=16;endFill=0;html=1;" edge="1" parent="1" source="102" target="83">
+                    <mxGeometry x="-0.25" y="-20" width="160" relative="1" as="geometry">
+                        <mxPoint x="50" y="722" as="sourcePoint"/>
+                        <mxPoint x="210" y="722" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="112" value="" style="endArrow=block;endSize=16;endFill=0;html=1;" edge="1" parent="1" source="105" target="83">
+                    <mxGeometry x="-0.25" y="-20" width="160" relative="1" as="geometry">
+                        <mxPoint x="60" y="732" as="sourcePoint"/>
+                        <mxPoint x="220" y="732" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="113" value="" style="endArrow=block;endSize=16;endFill=0;html=1;" edge="1" parent="1" source="108" target="83">
+                    <mxGeometry x="-0.25" y="-20" width="160" relative="1" as="geometry">
+                        <mxPoint x="70" y="742" as="sourcePoint"/>
+                        <mxPoint x="230" y="742" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
