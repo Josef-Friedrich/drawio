@@ -1,0 +1,34 @@
+<mxfile host="65bd71144e">
+    <diagram name="Page-1" id="KB8Ok2DvNuGD_wmBjVxV">
+        <mxGraphModel dx="1145" dy="1268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="sftyYVtjVENT-q0x5Cpo-1" value="Betriebssystem" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="50" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="sftyYVtjVENT-q0x5Cpo-3" value="Computer" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="220" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="sftyYVtjVENT-q0x5Cpo-5" value="Smartphone" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="250" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="sftyYVtjVENT-q0x5Cpo-9" value="Mobiltelefon" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="50" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="sftyYVtjVENT-q0x5Cpo-13" value="iPhone" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="320" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="sftyYVtjVENT-q0x5Cpo-14" value="Apple" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="80" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="sftyYVtjVENT-q0x5Cpo-20" value="Google" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="240" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="sftyYVtjVENT-q0x5Cpo-22" value="Internet" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Alegreya;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="530" y="360" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
