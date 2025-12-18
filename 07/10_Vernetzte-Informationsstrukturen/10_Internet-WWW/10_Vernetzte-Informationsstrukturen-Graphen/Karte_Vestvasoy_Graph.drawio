@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.14">
+  <diagram name="Page-1" id="4OHtc5SzSpWAHlnJZfAg">
+    <mxGraphModel dx="1692" dy="1219" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="krPH2baN2AkUg7IklSHD-1" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Alegreya&quot;&gt;Eggum&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="110" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPH2baN2AkUg7IklSHD-2" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Alegreya&quot;&gt;Gravdal&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPH2baN2AkUg7IklSHD-3" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Alegreya&quot;&gt;Ballstad&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="400" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPH2baN2AkUg7IklSHD-4" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Alegreya&quot;&gt;Kvales&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="100" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPH2baN2AkUg7IklSHD-5" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Alegreya&quot;&gt;Leknes&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="280" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPH2baN2AkUg7IklSHD-6" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Alegreya&quot;&gt;Valberg&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="210" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPH2baN2AkUg7IklSHD-7" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Alegreya&quot;&gt;Stamsund&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="300" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="krPH2baN2AkUg7IklSHD-43" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="krPH2baN2AkUg7IklSHD-1" target="krPH2baN2AkUg7IklSHD-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="770" as="sourcePoint" />
+            <mxPoint x="320" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPH2baN2AkUg7IklSHD-44" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="krPH2baN2AkUg7IklSHD-6" target="krPH2baN2AkUg7IklSHD-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="200" as="sourcePoint" />
+            <mxPoint x="480" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPH2baN2AkUg7IklSHD-45" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="krPH2baN2AkUg7IklSHD-7" target="krPH2baN2AkUg7IklSHD-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="790" as="sourcePoint" />
+            <mxPoint x="340" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPH2baN2AkUg7IklSHD-46" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="krPH2baN2AkUg7IklSHD-5" target="krPH2baN2AkUg7IklSHD-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="800" as="sourcePoint" />
+            <mxPoint x="350" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPH2baN2AkUg7IklSHD-47" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="krPH2baN2AkUg7IklSHD-2" target="krPH2baN2AkUg7IklSHD-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="810" as="sourcePoint" />
+            <mxPoint x="360" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPH2baN2AkUg7IklSHD-48" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="krPH2baN2AkUg7IklSHD-3" target="krPH2baN2AkUg7IklSHD-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="820" as="sourcePoint" />
+            <mxPoint x="370" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krPH2baN2AkUg7IklSHD-49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="krPH2baN2AkUg7IklSHD-5" target="krPH2baN2AkUg7IklSHD-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="830" as="sourcePoint" />
+            <mxPoint x="380" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
