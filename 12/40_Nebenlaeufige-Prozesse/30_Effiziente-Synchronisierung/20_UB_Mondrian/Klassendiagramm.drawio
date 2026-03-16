@@ -1,0 +1,75 @@
+<mxfile host="65bd71144e">
+    <diagram id="Q8ZCVBfkGdzVq4fk389N" name="Page-1">
+        <mxGraphModel dx="913" dy="1293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="HZuPbUrIGUnnCWuKZM22-23" value="Random" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Alegreya;fontSize=11;rounded=0;gradientColor=none;swimlaneFillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="320" width="130" height="52" as="geometry">
+                        <mxRectangle x="480" y="560" width="80" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="HZuPbUrIGUnnCWuKZM22-25" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontFamily=Alegreya;fontSize=11;" parent="HZuPbUrIGUnnCWuKZM22-23" vertex="1">
+                    <mxGeometry y="26" width="130" height="8" as="geometry"/>
+                </mxCell>
+                <mxCell id="HZuPbUrIGUnnCWuKZM22-37" value="nextInt(bound: int): int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;" parent="HZuPbUrIGUnnCWuKZM22-23" vertex="1">
+                    <mxGeometry y="34" width="130" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Thread" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Alegreya;fontSize=11;rounded=0;gradientColor=none;swimlaneFillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="390" width="130" height="88" as="geometry">
+                        <mxRectangle x="480" y="560" width="80" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontFamily=Alegreya;fontSize=11;" parent="18" vertex="1">
+                    <mxGeometry y="26" width="130" height="8" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="run(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;" parent="18" vertex="1">
+                    <mxGeometry y="34" width="130" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="start(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;" parent="18" vertex="1">
+                    <mxGeometry y="52" width="130" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="getId(): long" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;" parent="18" vertex="1">
+                    <mxGeometry y="70" width="130" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Leinwand" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Alegreya;fontSize=11;rounded=0;gradientColor=none;swimlaneFillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="500" width="200" height="124" as="geometry">
+                        <mxRectangle x="480" y="560" width="80" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontFamily=Alegreya;fontSize=11;" parent="21" vertex="1">
+                    <mxGeometry y="26" width="200" height="8" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="gibBreite(): int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;" parent="21" vertex="1">
+                    <mxGeometry y="34" width="200" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="gibHoehe(): int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;" parent="21" vertex="1">
+                    <mxGeometry y="52" width="200" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="bemale(x: int, y: int, farbe: int): int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;" parent="21" vertex="1">
+                    <mxGeometry y="70" width="200" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="istBemalt(x: int, y: int): boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;" parent="21" vertex="1">
+                    <mxGeometry y="88" width="200" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="istFertig(): boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=3;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Alegreya;fontSize=11;" parent="21" vertex="1">
+                    <mxGeometry y="106" width="200" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Alegreya&quot;&gt;Gibt eine zufällige Ganzzahl zwischen 0 und bound&lt;/font&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=12;verticalAlign=top;align=center;shadow=0;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="304" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=10;endArrow=none;endFill=0;dashed=1;dashPattern=1 1;" parent="1" source="HZuPbUrIGUnnCWuKZM22-37" target="30" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="&lt;font face=&quot;Alegreya&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Gibt die ID des Threads als long&lt;/span&gt;&lt;div&gt;zurück. long ist eine 64-bit Ganzzahl.&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Alegreya&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 8px;&quot;&gt;int ist eine 32-bit Ganzzahl&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%208px%3B%26quot%3B%20face%3D%26quot%3BAlegreya%26quot%3B%26gt%3BGibt%20eine%20zuf%C3%A4llige%20Ganzzahl%20zwischen%200%20und%20bound%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22shape%3Dnote2%3BboundedLbl%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bsize%3D12%3BverticalAlign%3Dtop%3Balign%3Dcenter%3Bshadow%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22280%22%20y%3D%22428%22%20width%3D%22110%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;font face=&quot;Alegreya&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=12;verticalAlign=top;align=center;shadow=0;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="399" width="150" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" style="edgeStyle=none;html=1;fontSize=10;endArrow=none;endFill=0;dashed=1;dashPattern=1 1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="25" target="32" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="210" y="463" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
